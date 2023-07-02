@@ -1,4 +1,6 @@
 **Tic-Tac-Toe Game**
+Click on the below link to play:
+https://tictactoe-ten-kappa.vercel.app/
 
 Tic Tac Toe is a classic game played on a grid of 3x3 squares. The objective of the game is to be the first player to form a line of three matching symbols (typically X or O) either horizontally, vertically, or diagonally.
 
